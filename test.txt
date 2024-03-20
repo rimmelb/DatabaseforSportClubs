@@ -1,0 +1,50 @@
+231000000
+3100000
+3
+futball;kosarlabda;kezilabda
+Szabo Tamas;tulajdonos;1300000;egyetem
+Nemeth Lajos;foigazgato;1200000;egyetem
+Orosz Gyorgy;sportigazgato;1100000;egyetem
+Horvath Gyula;gazdasagi igazgato;1000000;egyetem
+Nagy Imre;futball-szakosztalyvezeto;900000;egyetem
+Horvath Gabor;kosarlabda-szakosztalyvezeto;900000;egyetem
+Eros Janos;kezilabda-szakosztalyvezeto;900000;egyetem
+#
+1;Sztanyiszlav Csercseszov;foedzo;900000;foiskola
+1;Mate Csaba;eronleti edzo;340000;foiskola
+1;Balogh Tamas;sportorvos;600000;egyetem
+1;Kovacs Bence;masszor;430000;egyetem
+1;Nemeth Botond;gyogytornasz;340000;egyetem
+#
+1;Dibusz Denes;1990;1;900000;4
+1;Bogdan Adam;1987;2;600000;2
+1;Szecsi Gergo;1998;3;450000;3
+1;Henry Wingo;1995;4;600000;5
+1;Samy Mmaee;1992;5;780000;2
+1;Mats Knoester;1995;6;670000;3
+1;Adnan Kovacevic;1994;7;680000;3
+#
+2;Almasi Noel;foedzo;800000;foiskola
+2;Nagy Ervin;eronleti edzo;340000;foiskola
+2;Varga Mate;sportorvos;600000;egyetem
+2;Nemeth Mate;masszor;450000;egyetem
+2;Horvath Janos;gyogytornasz;350000;egyetem
+#
+2;Csendes Peter;2002;1;680000;3
+2;Scholl Richard;2002;2;700000;2
+2;Supola Zoltan;1999;3;670000;4
+2;Molnar Marton;1996;4;560000;3
+2;Sitku Marton;1997;5;780000;3
+2;Jordan Barnett;1995;6;650000;5
+#
+3;Krucso Tamas;foedzo;800000;foiskola
+3;Nagy Gabor;eronleti edzo;340000;foiskola
+3;Fekete Akos;sportorvos;600000;egyetem
+3;Nemeth Ferenc;masszor;450000;egyetem
+3;Szam Mate;gyogytornasz;350000;egyetem
+#
+3;Omar Jahia;1995;1;670000;3
+3;Rodrigo Corrales;1993;2;800000;2
+3;Vladimir Cupara;1995;3;670000;2
+3;Andreas Nilsson;1995;4;800000;2
+3;Ligetvari Patrik;1996;5;700000;4
